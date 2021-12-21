@@ -1,0 +1,8 @@
+DFRobot_Iot	KEYWORD2
+init	KEYWORD2
+
+_mqttServer	LITERAL1
+_clientId	LITERAL1
+_username	LITERAL1
+_password	LITERAL1
+_port	LITERAL1
